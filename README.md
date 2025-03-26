@@ -9,7 +9,7 @@ We explored this on the synthesis of the Fe₂(ZnCo)O₄ mixed metal oxide spine
 
 ## Kernel Learning
 
-we leverage kernel learning and the SHapley Additive exPlanations (SHAP) to interpret the influence of synthesis conditions for the single-phase formation of a ternary spinel system Fe2(ZnCo)O4. Specifically, all samples are synthesized using a Chemspeed automation platform for better reproducibility and precious parameter control across the synthesis space. A kernel classification model is trained with the sparse independent experimental conditions including reagent concentrations, the amount of reagents, the reagent addition rate, and reagent addition
+We leverage kernel learning and the SHapley Additive exPlanations (SHAP) to interpret the influence of synthesis conditions for the single-phase formation of a ternary spinel system Fe2(ZnCo)O4. Specifically, all samples are synthesized using a Chemspeed automation platform for better reproducibility and precious parameter control across the synthesis space. A kernel classification model is trained with the sparse independent experimental conditions including reagent concentrations, the amount of reagents, the reagent addition rate, and reagent addition
 order as features for single-phase synthesis. Kernel methods are performed in two successive steps: First, the training data in
 the input space is mapped onto a higher dimensional feature space, where sometimes even unknown features are induced by the kernel. In the second step, a linear method is applied to find a linear relationship in that feature space in a regression or a classification setting. Since everything
 is formulated in terms of kernel-evaluations, there is no need for any explicit calculations in the high-dimensional feature space
