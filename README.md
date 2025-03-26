@@ -34,3 +34,18 @@ uncertainty level and class. B) Probability vs uncertainty of all samples in the
 of the multi-phase errors (FP) occur in the high uncertainty region, while most correct predictions
 (TP/TN) cluster in the low uncertainty regions with higher confidence (probabilities further from
 0.5), demonstrating appropriate model calibration.
+
+## Golbal SHAP
+
+![F-contour-label](https://github.com/user-attachments/assets/32ce0ca9-9709-4846-8fcb-1dd6acdbed20)
+
+Contour plots of the global SHAP values for different pairs of experimental features,
+aggregated over the synthetic space of 43,000 experiment samples. The phase of the binary spinel is
+inferred by the kernel classifier, and the global SHAP value offers a comprehensive view of how
+each feature combination positively influences single-phase formation in alignment with theoretical
+and experimental expectations. Within the K2CO3 concentration range of 0.15–0.3 M, all samples
+exhibit at least one secondary phase, creating a missing region (marked with red) with very few
+single-phase outcomes (panel C). Despite additional experiments confirming single-phase synthesis
+is possible, the overall success rate in this region remains significantly lower than elsewhere,
+underscoring the distinct effect of K2CO3 on phase formation.
+
