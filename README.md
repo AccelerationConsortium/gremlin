@@ -53,6 +53,7 @@ underscoring the distinct effect of K2CO3 on phase formation.
 
 For more details checkout [preprint](https://arxiv.org/abs/2503.19637), and if you are using our methodology, please consider citing us using the citation below:
 
+```bibtex
 @misc{liu2025kernellearningassistedsynthesis,
       title={Kernel Learning Assisted Synthesis Condition Exploration for Ternary Spinel}, 
       author={Yutong Liu and Mehrad Ansari and Robert Black and Jason Hattrick-Simpers},
@@ -62,3 +63,4 @@ For more details checkout [preprint](https://arxiv.org/abs/2503.19637), and if y
       primaryClass={cond-mat.mtrl-sci},
       url={https://arxiv.org/abs/2503.19637}, 
 }
+```
