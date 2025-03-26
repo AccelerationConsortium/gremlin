@@ -49,3 +49,6 @@ single-phase outcomes (panel C). Despite additional experiments confirming singl
 is possible, the overall success rate in this region remains significantly lower than elsewhere,
 underscoring the distinct effect of K2CO3 on phase formation.
 
+## Citation
+
+For more details checkout [preprint](https://arxiv.org/abs/2503.19637).
