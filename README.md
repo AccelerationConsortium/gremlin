@@ -51,7 +51,7 @@ underscoring the distinct effect of K2CO3 on phase formation.
 
 ## Citation
 
-For more details checkout [preprint](https://arxiv.org/abs/2503.19637), and if you are using our methodology, please consider citing us using the citation below:
+For more details checkout [paper](https://www.nature.com/articles/s43246-025-00867-3), and if you are using our methodology, please consider citing us using the citation below:
 
 ```bibtex
 @misc{liu2025kernellearningassistedsynthesis,
