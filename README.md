@@ -54,13 +54,14 @@ underscoring the distinct effect of K2CO3 on phase formation.
 For more details checkout [paper](https://www.nature.com/articles/s43246-025-00867-3), and if you are using our methodology, please consider citing us using the citation below:
 
 ```bibtex
-@misc{liu2025kernellearningassistedsynthesis,
-      title={Kernel Learning Assisted Synthesis Condition Exploration for Ternary Spinel}, 
-      author={Yutong Liu and Mehrad Ansari and Robert Black and Jason Hattrick-Simpers},
-      year={2025},
-      eprint={2503.19637},
-      archivePrefix={arXiv},
-      primaryClass={cond-mat.mtrl-sci},
-      url={https://arxiv.org/abs/2503.19637}, 
+@article{liu2025kernel,
+  title={Kernel learning assisted synthesis condition exploration for ternary spinel},
+  author={Liu, Yutong and Ansari, Mehrad and Black, Robert and Hattrick-Simpers, Jason},
+  journal={Communications Materials},
+  volume={6},
+  number={1},
+  pages={145},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
 }
 ```
